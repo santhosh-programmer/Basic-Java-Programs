@@ -2,7 +2,7 @@
 Contains some of the basic java programs for beginners..HAVE FUN !!!
 
 ### Simple Programs
-<img src="https://nexenstial.com/assets/images/java.gif" align="right">
+<img src="https://nexenstial.com/assets/images/java.gif" align="right" width="30%" height="30%">
 
 ☕ [Factorial](Simple_Programs/CalculateFactorial.java)
 
