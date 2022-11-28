@@ -38,7 +38,7 @@ Contains some of the basic java programs for beginners..HAVE FUN !!!
 
 💘 [Login page using Swing and JDBC connectivity](Practicals/login.java)
 
-💘 [](Practicals/)
+💘 [Insert, Modify, Delete rows in JDBC](Practicals/demo.java)
 
 💘 [](Practicals/)
 
