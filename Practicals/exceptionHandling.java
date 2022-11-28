@@ -31,6 +31,13 @@ public class exceptionHandling {
         {
             System.out.println("ArrayIndexOutOfBounds Exception occured\n"+"Message:"+ e.getMessage()+"\n");
         }
+        try{
+            FileInputStream w=new FileInputStream("abc.txt");
+        }
+        catch(IOException e)
+        {
+            System.out.println("IO Exception occured\n"+"Message:"+ e.getMessage()+"\n");
+        }
 
     }
 }
