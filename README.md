@@ -34,7 +34,7 @@ Contains some of the basic java programs for beginners..HAVE FUN !!!
 
 💘 [User Defined Exception](Practicals/Main.java)
 
-💘 [](Practicals/)
+💘 [Multithreading](Practicals/threadSample.java)
 
 💘 [](Practicals/)
 
