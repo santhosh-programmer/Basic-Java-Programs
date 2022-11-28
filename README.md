@@ -30,7 +30,7 @@ Contains some of the basic java programs for beginners..HAVE FUN !!!
 
 💘 [string-length and capacity](Practicals/str.java)
 
-💘 [](Practicals/)
+💘 [5 types of Exception](Practicals/exceptionHandling.java)
 
 💘 [](Practicals/)
 
