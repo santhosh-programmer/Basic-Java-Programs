@@ -20,7 +20,7 @@ Contains some of the basic java programs for beginners..HAVE FUN !!!
 
 💘 [Simple login button using Swing](Practicals/Swing1.java)
 
-💘 [Addition of two numbers using GUI](Practicals/Swings2.java)
+💘 [Addition of two numbers using GUI](Practicals/Swing2.java)
 
 💘 [Vote Eligibility using GUI](Practicals/VoteGUI.java)
 
