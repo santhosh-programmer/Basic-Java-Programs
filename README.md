@@ -32,7 +32,7 @@ Contains some of the basic java programs for beginners..HAVE FUN !!!
 
 💘 [5 types of Exception](Practicals/exceptionHandling.java)
 
-💘 [](Practicals/)
+💘 [User Defined Exception](Practicals/Main.java)
 
 💘 [](Practicals/)
 
