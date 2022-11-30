@@ -40,9 +40,6 @@ Contains some of the basic java programs for beginners..HAVE FUN !!!
 
 💘 [Insert, Modify, Delete rows in JDBC](Practicals/demo.java)
 
-💘 [](Practicals/)
-
-
 <hr>
 
 ### Simple Programs
